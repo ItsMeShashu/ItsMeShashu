@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g)]
+![MasterHead](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Shashwat Garg</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
