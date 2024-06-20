@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -51,7 +50,9 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeshashu&show_icons=true&locale=en&layout=compact" alt="itsmeshashu" /></p>
-
+<p></p>
+<p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeshashu&show_icons=true&locale=en" alt="itsmeshashu" /></p>
-
+<p></p>
+<p></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeshashu&" alt="itsmeshashu" /></p>
